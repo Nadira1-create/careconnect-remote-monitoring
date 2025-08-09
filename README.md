@@ -1,6 +1,6 @@
 # CareConnect: AI-Powered Remote Patient Monitoring Dashboard
 
- **[Live Demo](https://your-vercel-url-here.vercel.app)** |  **[GitHub Repository](https://github.com/Nadira1-create/careconnect-remote-monitoring)**
+  **[Live Demo](https://careconnect-remote-monitoring-y9gn.vercel.app)** |  **[GitHub Repository](https://github.com/Nadira1-create/careconnect-remote-monitoring)**
 
 ##  Project Overview
 A comprehensive digital health platform designed for GP practices to monitor patients remotely using IoT devices. Built to address key challenges in healthcare digital transformation, featuring real-time monitoring, AI-powered risk assessment, and clinical decision support.
